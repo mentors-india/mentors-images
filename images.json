@@ -12,7 +12,7 @@
         },
         {
             "imageName": "3.png",
-            "imageUrl": "https://cdn.jsdelivr.net/gh/mentors-india/mentors-images@^env^/banners/3.png",
+            "imageUrl": "https://placehold.co/600x400",
             "onclickUrl": ""
         }
     ],
