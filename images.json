@@ -1,0 +1,12 @@
+{
+    "banners": [
+        
+        "https://cdn.jsdelivr.net/gh/mentors-india/mentors-images/banners/1.png",
+        "https://cdn.jsdelivr.net/gh/mentors-india/mentors-images/banners/2.png",
+        "https://cdn.jsdelivr.net/gh/mentors-india/mentors-images/banners/3.png"
+    ],
+    "posters": [
+        "https://cdn.jsdelivr.net/gh/mentors-india/mentors-images/posters/1.jpg",
+        "https://cdn.jsdelivr.net/gh/mentors-india/mentors-images/posters/2.jpg"
+    ]
+}
