@@ -1,0 +1,48 @@
+{
+    "banners": [
+        {
+            "imageName": "1.png",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/mentors-india/mentors-images@^env^/banners/1.png",
+            "onclickUrl": "/signup",
+            "mobileVisibility": true,
+            "desktopVisibility": true
+        },
+        {
+            "imageName": "2.png",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/mentors-india/mentors-images@^env^/banners/2.png",
+            "onclickUrl": "",
+            "mobileVisibility": true,
+            "desktopVisibility": true
+        },
+        {
+            "imageName": "3.png",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/mentors-india/mentors-images@^env^/banners/3.png",
+            "onclickUrl": "",
+            "mobileVisibility": false,
+            "desktopVisibility": true
+        }
+        {
+            "imageName": "4.png",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/mentors-india/mentors-images@^env^/banners/4.png",
+            "onclickUrl": "",
+            "mobileVisibility": false,
+            "desktopVisibility": true
+        }
+    ],
+    "posters": [
+        {
+            "imageName": "1.jpg",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/mentors-india/mentors-images@^env^/posters/1.jpg",
+            "onclickUrl": "/signup",
+            "mobileVisibility": true,
+            "desktopVisibility": true
+        },
+        {
+            "imageName": "2.jpg",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/mentors-india/mentors-images@^env^/posters/2.jpg",
+            "onclickUrl": "https://play.google.com/store/apps/details?id=com.klee.mentors&hl=en_IN",
+            "mobileVisibility": true,
+            "desktopVisibility": true
+        }
+    ]
+}
