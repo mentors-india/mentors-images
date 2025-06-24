@@ -20,7 +20,7 @@
             "onclickUrl": "",
             "mobileVisibility": false,
             "desktopVisibility": true
-        }
+        },
         {
             "imageName": "4.png",
             "imageUrl": "https://cdn.jsdelivr.net/gh/mentors-india/mentors-images@^env^/banners/4.png",
