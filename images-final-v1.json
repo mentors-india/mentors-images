@@ -4,29 +4,29 @@
             "imageName": "1.png",
             "imageUrl": "https://cdn.jsdelivr.net/gh/mentors-india/mentors-images@^env^/banners/1.png",
             "onclickUrl": "/signup",
-            "mobileVisibility": true,
+            "mobileVisibility": false,
             "desktopVisibility": true
         },
         {
             "imageName": "2.png",
             "imageUrl": "https://cdn.jsdelivr.net/gh/mentors-india/mentors-images@^env^/banners/2.png",
             "onclickUrl": "",
-            "mobileVisibility": true,
+            "mobileVisibility": false,
             "desktopVisibility": true
         },
         {
             "imageName": "3.png",
             "imageUrl": "https://cdn.jsdelivr.net/gh/mentors-india/mentors-images@^env^/banners/3.png",
             "onclickUrl": "",
-            "mobileVisibility": false,
-            "desktopVisibility": true
+            "mobileVisibility": true,
+            "desktopVisibility": false
         },
         {
             "imageName": "4.png",
             "imageUrl": "https://cdn.jsdelivr.net/gh/mentors-india/mentors-images@^env^/banners/4.png",
             "onclickUrl": "",
             "mobileVisibility": true,
-            "desktopVisibility": true
+            "desktopVisibility": false
         }
     ],
     "posters": [
