@@ -40,7 +40,7 @@
     {
       "imageName": "2.jpg",
       "imageUrl": "https://raw.githubusercontent.com/mentors-india/mentors-images/refs/heads/^env^/posters/2.jpg",
-      "onclickUrl": "https://play.google.com/store/apps/details?id=com.klee.mentors&hl=en_IN",
+      "onclickUrl": "/signup",
       "mobileVisibility": true,
       "desktopVisibility": true
     }
